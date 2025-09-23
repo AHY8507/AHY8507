@@ -4,6 +4,7 @@ My Intersts
 
 - Python🐍
 - C++⌚
+- Java 🌵
 - Math📑
 - CS💻
 - Book📚
