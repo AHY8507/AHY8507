@@ -2,6 +2,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein-yousefi-8a5946287) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ahybs07) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/amirhosseinyousefi) 
 [![Email](https://img.shields.io/badge/Email_1-D14836?logo=gmail&logoColor=white)](mailto:a.yousefi8057@gmail.com)
 [![Email](https://img.shields.io/badge/Email_2-D14836?logo=gmail&logoColor=white)](mailto:amirhossein.yousefi.b@gmail.com)
 
